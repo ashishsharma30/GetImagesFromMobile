@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetImagesFromMobile</string>
+    <string name="no_images">no found the image</string>
+    <string name="images">%d Photos</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_image">choose a image for edit</string>
+    <string name="edit_image">edit image</string>
+    <string name="save_path">save path : %s</string>
+    <string name="take_photo">take_photo</string>
+</resources>
